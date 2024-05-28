@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Analiz_na_danni/1.0.0": {
+        "runtime": {
+          "Analiz_na_danni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analiz_na_danni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

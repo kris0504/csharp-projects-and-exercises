@@ -1,0 +1,36 @@
+C:\Users\Zala2\source\repos\Честота\bin\Debug\net5.0-windows\Честота.exe
+C:\Users\Zala2\source\repos\Честота\bin\Debug\net5.0-windows\Честота.deps.json
+C:\Users\Zala2\source\repos\Честота\bin\Debug\net5.0-windows\Честота.runtimeconfig.json
+C:\Users\Zala2\source\repos\Честота\bin\Debug\net5.0-windows\Честота.runtimeconfig.dev.json
+C:\Users\Zala2\source\repos\Честота\bin\Debug\net5.0-windows\Честота.dll
+C:\Users\Zala2\source\repos\Честота\bin\Debug\net5.0-windows\ref\Честота.dll
+C:\Users\Zala2\source\repos\Честота\bin\Debug\net5.0-windows\Честота.pdb
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.csproj.AssemblyReference.cache
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.Form1.resources
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.csproj.GenerateResource.cache
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.AssemblyInfoInputs.cache
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.AssemblyInfo.cs
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.csproj.CoreCompileInputs.cache
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.dll
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\ref\Честота.dll
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.pdb
+C:\Users\Zala2\source\repos\Честота\obj\Debug\net5.0-windows\Честота.genruntimeconfig.cache
+D:\github_rep\c# projects and exercises\Frequency\Честота\bin\Debug\net5.0-windows\Честота.exe
+D:\github_rep\c# projects and exercises\Frequency\Честота\bin\Debug\net5.0-windows\Честота.deps.json
+D:\github_rep\c# projects and exercises\Frequency\Честота\bin\Debug\net5.0-windows\Честота.runtimeconfig.json
+D:\github_rep\c# projects and exercises\Frequency\Честота\bin\Debug\net5.0-windows\Честота.runtimeconfig.dev.json
+D:\github_rep\c# projects and exercises\Frequency\Честота\bin\Debug\net5.0-windows\Честота.dll
+D:\github_rep\c# projects and exercises\Frequency\Честота\bin\Debug\net5.0-windows\Честота.pdb
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.csproj.AssemblyReference.cache
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.Form1.resources
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.csproj.GenerateResource.cache
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.GeneratedMSBuildEditorConfig.editorconfig
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.AssemblyInfoInputs.cache
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.AssemblyInfo.cs
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.csproj.CoreCompileInputs.cache
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.dll
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\refint\Честота.dll
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.pdb
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\Честота.genruntimeconfig.cache
+D:\github_rep\c# projects and exercises\Frequency\Честота\obj\Debug\net5.0-windows\ref\Честота.dll

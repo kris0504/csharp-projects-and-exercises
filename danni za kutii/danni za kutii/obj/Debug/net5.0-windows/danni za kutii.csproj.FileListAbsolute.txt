@@ -1,0 +1,19 @@
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\bin\Debug\net5.0-windows\danni za kutii.exe
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\bin\Debug\net5.0-windows\danni za kutii.deps.json
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\bin\Debug\net5.0-windows\danni za kutii.runtimeconfig.json
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\bin\Debug\net5.0-windows\danni za kutii.runtimeconfig.dev.json
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\bin\Debug\net5.0-windows\danni za kutii.dll
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\bin\Debug\net5.0-windows\ref\danni za kutii.dll
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\bin\Debug\net5.0-windows\danni za kutii.pdb
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.csproj.AssemblyReference.cache
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni_za_kutii.Form1.resources
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni_za_kutii.Properties.Resources.resources
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.csproj.GenerateResource.cache
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.AssemblyInfoInputs.cache
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.AssemblyInfo.cs
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.csproj.CoreCompileInputs.cache
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.dll
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\ref\danni za kutii.dll
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.pdb
+C:\Users\Zala2\Desktop\14d\informatika chast2\danni za kutii\obj\Debug\net5.0-windows\danni za kutii.genruntimeconfig.cache

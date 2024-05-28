@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "danni za kutii/1.0.0": {
+        "runtime": {
+          "danni za kutii.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "danni za kutii/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

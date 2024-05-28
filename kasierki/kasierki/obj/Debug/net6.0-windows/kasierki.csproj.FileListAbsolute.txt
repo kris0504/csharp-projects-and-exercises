@@ -1,0 +1,17 @@
+D:\softuni\kasierki\kasierki\bin\Debug\net6.0-windows\kasierki.exe
+D:\softuni\kasierki\kasierki\bin\Debug\net6.0-windows\kasierki.deps.json
+D:\softuni\kasierki\kasierki\bin\Debug\net6.0-windows\kasierki.runtimeconfig.json
+D:\softuni\kasierki\kasierki\bin\Debug\net6.0-windows\kasierki.dll
+D:\softuni\kasierki\kasierki\bin\Debug\net6.0-windows\kasierki.pdb
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.Form1.resources
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.csproj.GenerateResource.cache
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.AssemblyInfoInputs.cache
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.AssemblyInfo.cs
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.csproj.CoreCompileInputs.cache
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.dll
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\refint\kasierki.dll
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.pdb
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.genruntimeconfig.cache
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\ref\kasierki.dll
+D:\softuni\kasierki\kasierki\obj\Debug\net6.0-windows\kasierki.DetailsForm.resources
